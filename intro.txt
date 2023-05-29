@@ -1,0 +1,70 @@
+ BASIC, FORTRAN, COBOL
+
+ C Language 
+ Easy to learn
+ Function Oriented
+
+ Bjarne Stroustroup(C with classes)
+ Descendant of C(C++)
+
+ James Gosling
+ Purely Object Oriented
+ Platform Independent Nature
+ Oak 
+ Java
+
+
+ # Features of Java
+ 1) Security
+ Trojan Horse, Virus, Spyware, Malware
+ Credit Card Details, personal info
+ JVM
+ 2) Portability
+ Same application code can be run on multiple computers
+
+ 3) Simple
+
+ 4)Object Oriented
+ Almost everything is Object
+ Primitive types are non Object
+
+ 5) Robust
+ Strong memory management
+ Automatic garbage collection
+
+ 6) Multithreading
+ etc.....
+
+ Is Java purely Object Oriented?
+ Multiple Inheritance
+ Operator Overloading
+
+
+
+ ## JAVA Identifiers
+ Classes, methods, variables names
+ Rules:-
+ 1) a to z
+    A to Z
+    0 to 9
+    $
+    _
+2) SHould not start with number
+3) Case sensitive
+murtaza
+Murtaza
+4) No length limit
+5) Keywords can't be used
+
+
+## Java Datatypes(Primitive Types)
+ 
+byte -1byte
+short - 2 byte
+int - 4 bytes
+long - 8bytes
+float - 4 bytes
+double - 8 bytes
+char - 2 bytes
+boolean - 1byte
+ 
