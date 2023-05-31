@@ -19,12 +19,13 @@
  Trojan Horse, Virus, Spyware, Malware
  Credit Card Details, personal info
  JVM
+
  2) Portability
  Same application code can be run on multiple computers
 
  3) Simple
 
- 4)Object Oriented
+ 4) Object Oriented
  Almost everything is Object
  Primitive types are non Object
 
